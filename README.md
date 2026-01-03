@@ -1,2 +1,6 @@
 # loader
-Any Loader
+Loader
+
+# platrofms supported
+x86
+
